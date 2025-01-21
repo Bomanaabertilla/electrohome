@@ -62,11 +62,11 @@ class _HomeState extends State<Home> {
                   ),
                   const SizedBox(height: 10),
                   const Text(
-                    'John Doe',
+                    'Bertilla',
                     style: TextStyle(color: Colors.white, fontSize: 18),
                   ),
                   const Text(
-                    'johndoe@gmail.com',
+                    'balansuahbertilla@gmail.com',
                     style: TextStyle(color: Colors.white70, fontSize: 14),
                   ),
                 ],
